@@ -6,6 +6,7 @@ import io.quarkus.runtime.annotations.RegisterForReflection;
 public class Legume {
 
     public String name;
+    
     public String description;
 
     public Legume() {
